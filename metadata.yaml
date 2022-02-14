@@ -1,0 +1,34 @@
+_repo: La-Rebelle_67243
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Tinayre, Marcelle
+    birthdate: 1872
+    deathdate: 1948
+    gutenberg_agent_id: '54170'
+    url: http://www.gutenberg.org/2009/agents/54170
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Marcelle_Tinayre
+    - https://fr.wikipedia.org/wiki/Marcelle_Tinayre
+description: ''
+gutenberg_issued: '2022-01-24'
+identifiers:
+  gutenberg: '67243'
+language: fr
+pgterms:marc904: https://archive.org/details/larebelle00tinauoft/page/n5/mode/2up
+pgterms:marc905: 20200429090633tinayre
+pgterms:marc906: '1905'
+pgterms:marc907: fr
+production_note: Claudine Corbasson and the Online Distributed Proofreading Team at
+  https://www.pgdp.net (This file was produced from images generously made available
+  by The Internet Archive/Canadian Libraries)
+publication_note: France :Calmann-Lévy,1905.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'French fiction -- 20th century'
+- !lcc 'PQ'
+- GITenberg
+title: La Rebelle
+url: http://www.gutenberg.org/ebooks/67243
