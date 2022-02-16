@@ -1,5 +1,8 @@
 _repo: La-Rebelle_67243
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 67243-h/images/cover.jpg
 creator:
   author:
     agent_name: Tinayre, Marcelle
@@ -11,6 +14,8 @@ creator:
     - https://en.wikipedia.org/wiki/Marcelle_Tinayre
     - https://fr.wikipedia.org/wiki/Marcelle_Tinayre
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67243#La-Rebelle
 gutenberg_issued: '2022-01-24'
 identifiers:
   gutenberg: '67243'
